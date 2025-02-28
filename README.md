@@ -11,4 +11,4 @@ Task management system consists of 4 roles:
 This system was made by a combination of sql and nosql databases that could add effeciency, flexibility and enhance speed as the sql database was use with the static data or the data that has relations while the nosql was used with the dynamic data (like: arrays, dictionaries and so on) this combination made the system respond with higher speed, better performance and powerful management of data
 
 --note--
-the system at this point is not tested yet so bugs or broken functions maybe exist but it is still in development in addition to adding new functions for requests and team collaborations
+the system at this point is not tested yet so bugs or broken functions maybe exist but it is still in development in addition to adding new functions for requests and team collaborations and routes are not added yet
