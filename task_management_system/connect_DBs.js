@@ -3,7 +3,7 @@ const {MongoClient} = require('mongodb')
     const mysqlDB = mysql.createConnection({
         host: 'localhost',
         user: 'root',
-        password: 'bobo232324',
+        password: 'password',
         database: 'task_management_system'
     }
     )
